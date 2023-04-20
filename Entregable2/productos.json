@@ -1,0 +1,56 @@
+[
+  {
+    "title": "Mouse",
+    "description": "Electrodomestico",
+    "price": 100,
+    "thumbnail": "thumbnail",
+    "code": "aaa1",
+    "stock": 20,
+    "id": 2
+  },
+  {
+    "title": "tv",
+    "description": "Electrodomestico",
+    "price": 100,
+    "thumbnail": "thumbnail",
+    "code": "aaa1",
+    "stock": 20,
+    "id": 3
+  },
+  {
+    "title": "tv",
+    "description": "Electrodomestico",
+    "price": 100,
+    "thumbnail": "thumbnail",
+    "code": "aaa1",
+    "stock": 20,
+    "id": 4
+  },
+  {
+    "title": "Cell",
+    "description": "Electrodomestico",
+    "price": 800,
+    "thumbnail": "thumbnail",
+    "code": "aaa1",
+    "stock": 10,
+    "id": 5
+  },
+  {
+    "title": "tv",
+    "description": "Electrodomestico",
+    "price": 100,
+    "thumbnail": "thumbnail",
+    "code": "aaa1",
+    "stock": 20,
+    "id": 6
+  },
+  {
+    "title": "tv",
+    "description": "Electrodomestico",
+    "price": 100,
+    "thumbnail": "thumbnail",
+    "code": "aaa1",
+    "stock": 20,
+    "id": 6
+  }
+]
